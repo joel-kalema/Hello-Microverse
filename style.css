@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Cambay&family=Open+Sans:wght@300&family=Poppins&family=Prompt:wght@300&family=Roboto:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: blueviolet;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+}
+.title {
+  color: blueviolet;
+  font-size: 30px;
+  letter-spacing: 2px;
+  background-color: #fff;
+  padding: 30px;
+  padding: 10px 40px;
+  box-shadow: 3px 7px 15px rgba(0, 0, 0, 0.63);
+}
