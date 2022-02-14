@@ -21,9 +21,9 @@ To get a local copy up and running follow these simple example steps.
 2. `cd Hello-Microverse`
 3. Open it with the live server
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@joel-kalema](https://github.com/joel-kalema)
 - Twitter: [@JoelJklm](https://www.linkedin.com/in/joel-kalema-30518a230/)
