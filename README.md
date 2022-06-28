@@ -9,8 +9,6 @@
 - Html
 - Css
 
-## Live Demo (if available)
-
 [Live Demo Link](https://joel-kalema.github.io/Hello-Microverse/)
 
 ## Getting Started
